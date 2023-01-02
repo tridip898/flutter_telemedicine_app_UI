@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Charlie Black",
+    "specialist": "Cardiologist",
+    "image": "lib/icons/doctor_male1.png",
+    "date": "13/10/2021",
+    "time": "08:00 PM"
+  },
+  {
+    "name": "Dr. Mosta Balbarnie",
+    "specialist": "Liver Specialist",
+    "image": "lib/icons/doctor_male2.png",
+    "date": "21/10/2021",
+    "time": "09:00 PM"
+  },
+  {
+    "name": "Dr. Sophia Sinn",
+    "specialist": "Medicine",
+    "image": "lib/icons/doctor_female1.png",
+    "date": "27/10/2021",
+    "time": "07:30 PM"
+  }
+]

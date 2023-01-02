@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Dr. Chris Frazier",
+    "image": "lib/icons/doctor_male1.png",
+    "specialist": "Therapist",
+    "rating": "4.7",
+    "about": "Dr. Chris Frazier is an experienced therapist for pain in joint and muscle. He is also prefer for every types of therapy.",
+    "center": "Apollo Hospital",
+    "location": "65/a, Banani, Dhaka",
+    "fare": "18"
+  },
+  {
+    "name": "Dr. Viola Dunn",
+    "image": "lib/icons/doctor_female1.png",
+    "specialist": "Gynecologist",
+    "rating": "4.9",
+    "about": "Dr. Viola Dunn is an experienced gynecologist for female various problem like periodic, pregnancy, sexual and others.",
+    "center": "LabAid Diagnostic Center",
+    "location": "3/e, Mirpur Road, Dhanmondi, Dhaka",
+    "fare": "15"
+  },
+  {
+    "name": "Dr. John Adams",
+    "image": "lib/icons/doctor_male2.png",
+    "specialist": "Cardiologist",
+    "rating": "4.6",
+    "about": "Dr. John Adams is an experienced cardiologist who is serve patient with cardiac problem and heart block.",
+    "center": "Square Hospital",
+    "location": "15/c, Panthapath, Dhanmondi, Dhaka",
+    "fare": "20"
+  },
+  {
+    "name": "Dr. Julie Ann",
+    "image": "lib/icons/doctor_female2.png",
+    "specialist": "Medicine",
+    "rating": "4.4",
+    "about": "Dr. Chris Frazier is an medicine specialist and diagnosing patients and performing medical procedures according to their areas of expertise.",
+    "center": "Ibna Sina Hospital",
+    "location": "9/d, Dhanmondi, Dhaka",
+    "fare": "13"
+  }
+]
